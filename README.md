@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Khalid Mohammed</h1>
-<h3 align="center">I'm an mobile apps developer, writing code for living and for fun. Love beautiful apps with a clean code ❤. Friendly, curious and ambitious with a concise list of interests.</h3>
+<h3 align="center">I'm  mobile apps developer, writing code for living and for fun.I love beautiful apps with  clean code ❤. Friendly, curious and ambitious with a concise list of interests.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kldmohammed&label=Profile%20views&color=0e75b6&style=flat" alt="kldmohammed" /> </p>
 
